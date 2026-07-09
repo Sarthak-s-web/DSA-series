@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -46,8 +48,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
