@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
