@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sarthak-s-web/DSA-series/tree/master/1291-sequential-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
