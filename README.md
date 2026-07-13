@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Sarthak-s-web/DSA-series/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
