@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Sarthak-s-web/DSA-series/tree/master/0238-product-of-array-except-self) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthak-s-web/DSA-series/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
