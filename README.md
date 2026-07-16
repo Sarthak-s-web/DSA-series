@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthak-s-web/DSA-series/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarthak-s-web/DSA-series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarthak-s-web/DSA-series/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
