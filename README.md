@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sarthak-s-web/DSA-series/tree/master/0238-product-of-array-except-self) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
+| [1260-shift-2d-grid](https://github.com/Sarthak-s-web/DSA-series/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarthak-s-web/DSA-series/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sarthak-s-web/DSA-series/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -117,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sarthak-s-web/DSA-series/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
