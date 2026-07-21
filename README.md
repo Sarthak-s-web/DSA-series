@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sarthak-s-web/DSA-series/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
