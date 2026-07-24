@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Sarthak-s-web/DSA-series/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Sarthak-s-web/DSA-series/tree/master/0620-not-boring-movies) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
