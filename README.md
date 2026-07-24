@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sarthak-s-web/DSA-series/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-s-web/DSA-series/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0992-subarrays-with-k-different-integers) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sarthak-s-web/DSA-series/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-s-web/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/Sarthak-s-web/DSA-series/tree/master/0875-koko-eating-bananas) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sarthak-s-web/DSA-series/tree/master/2226-maximum-candies-allocated-to-k-children) |
