@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
