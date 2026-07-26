@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/Sarthak-s-web/DSA-series/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Sarthak-s-web/DSA-series/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
