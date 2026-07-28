@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0206-reverse-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
