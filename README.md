@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarthak-s-web/DSA-series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -191,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
