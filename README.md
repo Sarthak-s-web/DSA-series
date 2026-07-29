@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/Sarthak-s-web/DSA-series/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-s-web/DSA-series/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
