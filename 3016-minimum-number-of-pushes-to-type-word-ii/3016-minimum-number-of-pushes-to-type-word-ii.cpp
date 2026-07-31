@@ -2,35 +2,30 @@ class Solution {
 public:
     int minimumPushes(string word) {
         int ans=0;
-        unordered_map<char,int> mpp;
+        vector<int>freq(26,0);
         for(int i=0;i<word.size();i++)
         {
-            mpp[word[i]]++;
+            freq[word[i]-'a']++;
         }
+        sort(freq.begin(), freq.end(),greater<int>());
         int count=0;
-        vector<int>temp;
-        for(auto it:mpp)
-        {
-            temp.push_back(it.second);
-        }
-        sort(temp.begin(), temp.end(),greater<int>());
-        for(int i=0;i<temp.size();i++)
+        for(int i=0;i<freq.size();i++)
         {
             if(count<8)
             {
-                ans+=temp[i];
+                ans+=freq[i];
             }
             else if(count>=8 && count<16)
             {
-                ans+=temp[i]*2;
+                ans+=freq[i]*2;
             }
             else if(count>=16 && count<24)
             {
-                ans+=temp[i]*3;
+                ans+=freq[i]*3;
             }
             else if(count>=24)
             {
-                ans+=temp[i]*4;
+                ans+=freq[i]*4;
             }
             count++;
         }
