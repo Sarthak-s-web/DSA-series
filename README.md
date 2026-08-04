@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarthak-s-web/DSA-series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sarthak-s-web/DSA-series/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthak-s-web/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
