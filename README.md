@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-s-web/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Sarthak-s-web/DSA-series/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
@@ -198,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Database
 |  |
