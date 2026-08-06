@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Sarthak-s-web/DSA-series/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/0142-linked-list-cycle-ii) |
@@ -200,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
