@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/Sarthak-s-web/DSA-series/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Sarthak-s-web/DSA-series/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sarthak-s-web/DSA-series/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## String
 |  |
 | ------- |
