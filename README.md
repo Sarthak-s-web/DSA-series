@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/Sarthak-s-web/DSA-series/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Sarthak-s-web/DSA-series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sarthak-s-web/DSA-series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sarthak-s-web/DSA-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sarthak-s-web/DSA-series/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
