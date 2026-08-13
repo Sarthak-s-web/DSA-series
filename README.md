@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthak-s-web/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,21 +78,25 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
