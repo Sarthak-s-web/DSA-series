@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sarthak-s-web/DSA-series/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-s-web/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sarthak-s-web/DSA-series/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-s-web/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
