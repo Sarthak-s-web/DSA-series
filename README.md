@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthak-s-web/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sarthak-s-web/DSA-series/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Sarthak-s-web/DSA-series/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-s-web/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
