@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sarthak-s-web/DSA-series/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sarthak-s-web/DSA-series/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
@@ -297,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
