@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-s-web/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sarthak-s-web/DSA-series/tree/master/0739-daily-temperatures) |
+| [0825-friends-of-appropriate-ages](https://github.com/Sarthak-s-web/DSA-series/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Sarthak-s-web/DSA-series/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sarthak-s-web/DSA-series/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sarthak-s-web/DSA-series/tree/master/0904-fruit-into-baskets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Sarthak-s-web/DSA-series/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthak-s-web/DSA-series/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/Sarthak-s-web/DSA-series/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Sarthak-s-web/DSA-series/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-s-web/DSA-series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sarthak-s-web/DSA-series/tree/master/0189-rotate-array) |
+| [0825-friends-of-appropriate-ages](https://github.com/Sarthak-s-web/DSA-series/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarthak-s-web/DSA-series/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-s-web/DSA-series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/0240-search-a-2d-matrix-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/Sarthak-s-web/DSA-series/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Sarthak-s-web/DSA-series/tree/master/0875-koko-eating-bananas) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sarthak-s-web/DSA-series/tree/master/2226-maximum-candies-allocated-to-k-children) |
