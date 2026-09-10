@@ -196,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0876-middle-of-the-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarthak-s-web/DSA-series/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Sarthak-s-web/DSA-series/tree/master/0134-gas-station) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarthak-s-web/DSA-series/tree/master/0424-longest-repeating-character-replacement) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarthak-s-web/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
