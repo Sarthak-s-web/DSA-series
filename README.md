@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarthak-s-web/DSA-series/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Sarthak-s-web/DSA-series/tree/master/0796-rotate-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sarthak-s-web/DSA-series/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
