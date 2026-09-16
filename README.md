@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Sarthak-s-web/DSA-series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sarthak-s-web/DSA-series/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarthak-s-web/DSA-series/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sarthak-s-web/DSA-series/tree/master/0134-gas-station) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sarthak-s-web/DSA-series/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Sarthak-s-web/DSA-series/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-s-web/DSA-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sarthak-s-web/DSA-series/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
