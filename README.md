@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarthak-s-web/DSA-series/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarthak-s-web/DSA-series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sarthak-s-web/DSA-series/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-s-web/DSA-series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Sarthak-s-web/DSA-series/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthak-s-web/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Sarthak-s-web/DSA-series/tree/master/0134-gas-station) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
