@@ -8,10 +8,9 @@ public:
         {
             if(intervals[i][0]<=ans.back()[1])
             {
-                ans.back()[1]=max(ans.back()[1],intervals[i][1]);
+                ans.back()[1]=max(intervals[i][1],ans.back()[1]);
             }
-            else
-            {
+            else{
                 ans.push_back(intervals[i]);
             }
         }
