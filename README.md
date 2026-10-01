@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sarthak-s-web/DSA-series/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-s-web/DSA-series/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Sarthak-s-web/DSA-series/tree/master/0143-reorder-list) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sarthak-s-web/DSA-series/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sarthak-s-web/DSA-series/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sarthak-s-web/DSA-series/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Sarthak-s-web/DSA-series/tree/master/0242-valid-anagram) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sarthak-s-web/DSA-series/tree/master/0796-rotate-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarthak-s-web/DSA-series/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
