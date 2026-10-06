@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Sarthak-s-web/DSA-series/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarthak-s-web/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthak-s-web/DSA-series/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2716-minimize-string-length](https://github.com/Sarthak-s-web/DSA-series/tree/master/2716-minimize-string-length) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-s-web/DSA-series/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-s-web/DSA-series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/Sarthak-s-web/DSA-series/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sarthak-s-web/DSA-series/tree/master/0856-score-of-parentheses) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sarthak-s-web/DSA-series/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2716-minimize-string-length](https://github.com/Sarthak-s-web/DSA-series/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sarthak-s-web/DSA-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarthak-s-web/DSA-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarthak-s-web/DSA-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
